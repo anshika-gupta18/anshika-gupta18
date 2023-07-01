@@ -1,7 +1,7 @@
 ## Anshika Gupta
 #### Hello, 😊
   
- I am Anshika Gupta. My main interests are Web Development and Data Science. Always Excited to learn new things. At present I am seeking some good stuff to enhance my technological skills.:heart: 
+ I am Anshika Gupta. My main interests are Software Development. Always Excited to learn new things. At present I am seeking some good stuff to enhance my technological skills.:heart: 
  * 🏢 I’m currently studying on **B.Tech Computer Science**.
  * 📔 I am currently working on a **mini-project of Web Development**. 
  * :dancers: I'm looking to collaborate on **Web Development Project**.
