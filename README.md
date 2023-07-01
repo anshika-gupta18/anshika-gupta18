@@ -6,7 +6,7 @@
  * 📔 I am currently working on a **mini-project of Web Development**. 
  * :dancers: I'm looking to collaborate on **Web Development Project**.
  * 📫 ***How to reach me:*** 
-    1. *Email*: anshig674@gmail.com
+    1. *Email*: anshikagsoni18@gmail.com
     2. *LinkedIn*: https://www.linkedin.com/in/anshika-gupta-507383204/
  * :smiley: ***Pronouns:*** You can give one. 
  * ⚡ ***Fun Fact:*** Can work for hours with music.
